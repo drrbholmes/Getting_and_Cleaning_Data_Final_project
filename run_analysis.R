@@ -11,7 +11,7 @@ library(dplyr)
 ## Initial preparations
 ## Download the dataset
 
-filename <- "Coursera_DS3_Final.zip"
+filename <- "getdata_projectfiles_UCI HAR Dataset.zip"
 
 # Checking if archieve already exists.
 if (!file.exists(filename)){
